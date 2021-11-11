@@ -41,3 +41,7 @@
 
 <img src="contributions/challenge_day10.gif" width="400px"/>
 
+### Day 11 – 3D
+
+<img src="contributions/challenge_day11.png" width="400px"/>
+
