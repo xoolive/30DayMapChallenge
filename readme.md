@@ -45,3 +45,7 @@
 
 <img src="contributions/challenge_day11.png" width="400px"/>
 
+### Day 12 – Population
+
+<img src="contributions/challenge_day12.png" width="400px"/>
+
