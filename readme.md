@@ -49,3 +49,7 @@
 
 <img src="contributions/challenge_day12.png" width="400px"/>
 
+### Day 13 – Data challenge 2: Natural Earth
+
+<img src="contributions/challenge_day13.png" width="400px"/>
+
