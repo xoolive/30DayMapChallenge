@@ -53,3 +53,9 @@
 
 <img src="contributions/challenge_day13.png" width="400px"/>
 
+### Day 14 – Map with a new tool
+
+Details here: https://observablehq.com/@xoolive/disputed-territories
+
+<img src="contributions/challenge_day14.png" width="400px"/>
+
