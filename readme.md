@@ -59,3 +59,9 @@ Details here: https://observablehq.com/@xoolive/disputed-territories
 
 <img src="contributions/challenge_day14.png" width="400px"/>
 
+### Day 15 – Map made without a computer
+
+Following the instructions from James Monteith's Comprehensive Geography to draw a map of Europe.
+
+<img src="contributions/challenge_day15.png" width="400px"/>
+
