@@ -65,3 +65,8 @@ Following the instructions from James Monteith's Comprehensive Geography to draw
 
 <img src="contributions/challenge_day15.png" width="400px"/>
 
+### Day 16 – Urban/rural
+
+<img src="contributions/challenge_day16.png" width="400px"/>
+
+
