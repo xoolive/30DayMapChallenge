@@ -69,4 +69,8 @@ Following the instructions from James Monteith's Comprehensive Geography to draw
 
 <img src="contributions/challenge_day16.png" width="400px"/>
 
+### Day 17 – Land
+
+<img src="contributions/challenge_day17.png" width="400px"/>
+
 
