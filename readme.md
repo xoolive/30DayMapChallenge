@@ -73,4 +73,24 @@ Following the instructions from James Monteith's Comprehensive Geography to draw
 
 <img src="contributions/challenge_day17.png" width="400px"/>
 
+### Day 18 – Water
+
+<img src="contributions/challenge_day18.png" width="400px"/>
+
+### Day 19 – Islands
+
+<img src="contributions/challenge_day19.png" width="400px"/>
+
+### Day 20 – Movement
+
+<img src="contributions/challenge_day20.png" width="400px"/>
+
+### Day 21 – Elevation
+
+<img src="contributions/challenge_day21.png" width="400px"/>
+
+### Day 22 – Boundaries
+
+<img src="contributions/challenge_day22.png" width="400px"/>
+
 
