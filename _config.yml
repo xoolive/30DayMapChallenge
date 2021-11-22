@@ -1,0 +1,17 @@
+title: 30 Day Map Challenge 2021
+description: >-
+author: Xavier Olive
+baseurl: "/30DayMapChallenge"
+email: git@xoolive.org
+repository: xoolive/30DayMapChallenge
+lang: fr-FR
+github_username: xoolive
+twitter_username: x00live
+google_analytics: "G-45F3WK484S"
+
+theme: jekyll-theme-minimal
+
+include: ["contributions", "data", '_pages']
+
+header_pages:
+  - contents

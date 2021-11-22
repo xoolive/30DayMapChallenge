@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title }}</title>
+    <meta name="author" content="Xavier Olive" />
+
+    <!-- http://www.favicon.cc/?action=icon&file_id=710977 -->
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/favicon/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/favicon/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/favicon/favicon-16x16.png"
+    />
+    <link rel="manifest" href="/favicon/site.webmanifest" />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-412789-2"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "UA-412789-2");
+    </script>
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+      integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l"
+      crossorigin="anonymous"
+    />
+
+    <script
+      src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+      crossorigin="anonymous"
+    ></script>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns"
+      crossorigin="anonymous"
+    ></script>
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fira%20Sans&subset=latin,latin-ext&display=swap"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inconsolata&subset=latin,latin-ext&display=swap"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato&subset=latin,latin-ext&display=swap"
+      rel="stylesheet"
+      type="text/css"
+    />
+
+    <!-- syntax highlighting CSS -->
+    <link rel="stylesheet" href="/css/solarized-light.css" type="text/css" />
+
+    <!-- Homepage CSS -->
+    <link
+      rel="stylesheet"
+      href="/css/screen.css"
+      type="text/css"
+      media="screen, projection, print"
+    />
+
+    <link
+      rel="stylesheet"
+      href="/css/print.css"
+      type="text/css"
+      media="print"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+      integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
+      crossorigin="anonymous"
+    />
+
+    <!-- In case you need some equations -->
+    <script
+      type="text/javascript"
+      src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    ></script>
+
+    <!-- Vega-lite -->
+
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  </head>
+  <body>
+    <div class="site container-lg">
+      <div class="title">
+        <a href="/">Xavier Olive</a>
+        <!--<a class="extra" href="/research/">research</a>
+        <a class="extra" href="/teaching/">teaching</a>
+        <a class="extra" href="/python/">python</a>
+        <a class="extra" href="/blog/">blog</a>
+        <a class="extra" href="/til/">til</a>
+        <a class="extra" href="/cli/">cli</a>-->
+        <div class="social">
+          <!--<a class="extra" href="https://keybase.io/xoolive">
+            <i class="fab fa-keybase fa-lg"></i>
+          </a>-->
+          <a class="extra" href="https://github.com/xoolive">
+            <i class="fab fa-github fa-lg"></i>
+          </a>
+          <a class="extra" href="https://linkedin.com/in/xoolive">
+            <i class="fab fa-linkedin fa-lg"></i>
+          </a>
+          <!--<a
+            class="extra"
+            href="https://www.researchgate.net/profile/Xavier_Olive2"
+          >
+            <i class="fab fa-researchgate fa-lg"></i>
+          </a>-->
+          <a class="extra" href="https://twitter.com/x00live">
+            <i class="fab fa-twitter fa-lg"></i>
+          </a>
+          <!--<a class="extra" href="https://instagram.com/xoolive">
+            <i class="fab fa-instagram fa-lg"></i>
+          </a>-->
+          <a class="extra" href="https://www.strava.com/athletes/6098259">
+            <i class="fab fa-strava fa-lg"></i>
+          </a>
+        </div>
+      </div>
+
+      <div class="content">
+          {{ content }}
+      </div>
+      <div class="footer">
+        <div class="license">
+          <p>
+            Unless specified otherwise, the contents of this website is
+            published under the terms of the Creative Commons
+            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >BY-NC-SA</a
+            >
+            license.
+            <a id="more-about-this" href="/copyright">More about this.</a>
+          </p>
+          <p>
+            Fonts on this page: Lato (serif),
+            <span style="font-family: 'Fira Sans'">Fira Sans</span>
+            (sans-serif) and
+            <span style="font-family: 'Inconsolata'">Inconsolata</span>
+            (monospace).<br />
+            Icons by <a href="https://fontawesome.com">fontawesome.com</a>
+          </p>
+          <p>
+            <img
+              height="20pt"
+              width="auto"
+              alt="by"
+              src="https://creativecommons.org/images/deed/by.png"
+            />
+            <img
+              height="20pt"
+              width="auto"
+              alt="nc"
+              src="https://creativecommons.org/images/deed/nc.png"
+            />
+            <img
+              height="20pt"
+              width="auto"
+              alt="sa"
+              src="https://creativecommons.org/images/deed/sa.png"
+            />
+          </p>
+        </div>
+
+        <div class="rss">
+          <a href="/atom.xml">
+            <i class="fa fa-rss fa-lg"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
