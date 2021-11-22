@@ -1,0 +1,744 @@
+{
+  "B00": {
+    "territory": "Arunachal Pradesh",
+    "countries": ["IND", "CHN"],
+    "centroid": [94.35471, 28.11946],
+    "zoom": 5.62779405022777,
+    "text": "Arunachal Pradesh, known in China as South Tibet, has been in dispute since the 1914 Simla Accord, in which the borders of Tibet were negotiated between Great Britain, China, and Tibet. China ultimately rejected the accord, and continues to recognize the region as part of Tibet.  However, Arunachal Pradesh is internationally recognized as a state of India."
+  },
+  "B01": {
+    "territory": "Tirpani, Bara Hotii, & Samdu Valleys",
+    "countries": ["IND", "CHN"],
+    "centroid": [79.09946, 31.29519],
+    "zoom": 7.70064509547413,
+    "text": "Sovereignty over two large and various smaller separated pieces of territory have been contested between China and India. Alonghe Tirpani, Bara Hotii, and Samdu Valleys are administered by India and claimed by China."
+  },
+  "B03": {
+    "territory": "Demchok",
+    "countries": ["IND", "CHN"],
+    "centroid": [79.29772, 32.85785],
+    "zoom": 7.04365228331555,
+    "text": "Demjok, also spelled Demchok, is a village and military encampment in the Leh district of Jammu and Kashmir, India. It is administered as part of the Leh tehsil, in the Indian-controlled part of the disputed Demchok sector south of Aksai Chin. The Line of Actual Control (LAC) passes along the southeast side of the village, following a wadi just upstream from the nearby Indus River. Across the wadi, less than a kilometer away, is a Chinese-administered village, called Dêmqog, which was once part of Demchok."
+  },
+  "B05": {
+    "territory": "Jammu and Kashmir",
+    "countries": ["IND", "PAK"],
+    "centroid": [76.55952, 33.77401],
+    "zoom": 5.71083401978932,
+    "text": "Kashmir is administered by India and claimed by Pakistan. After the partition of India in 1947, because of its location, Kashmir could have chosen to join either India or Pakistan. Maharaja Hari Singh, the ruler of Kashmir, was Hindu while most of his subjects were Muslim. Unable to decide which nation Kashmir should join, Hari Singh chose to remain neutral. But his hopes of remaining independent were dashed in October 1947, as Pakistan sent in Muslim tribesmen who were knocking at the gates of the capital Srinagar. Hari Singh signed the instrument of accession, acceding the Muslim majority state to India. The Indo-Pakistani War of 1947 continued until 1949 when the U.N. asked for a ceasefire and asked for a plebiscite in the Jammu & Kashmir regions after both countries withdraw their armed forces from the pre-1947 Kashmir area, so that the people could self-determine which country they want to join or stay independent. India is, to-date, refusing to hold the plebiscite as both countries refuse to withdraw their armies from Kashmir. Hence the UN resolution is pending. India and Pakistan have fought three wars over the region - in 1947, 1965 and 1999. The Kashmir dispute still remains on the United Nations Security Council’s agenda."
+  },
+  "B06": {
+    "territory": "Shaksam Valley",
+    "countries": ["CHN", "IND", "PAK"],
+    "centroid": [76.57758, 35.94394],
+    "zoom": 6.79011008757515,
+    "text": "Kashmir remains the site of the world's largest and most militarized territorial dispute with portions under the de facto administration of China (Aksai Chin and Shaksam Valley), India (Jammu and Kashmir), and Pakistan (Azad Kashmir and Northern Areas); India and Pakistan resumed bilateral dialogue in February 2011 after a two-year hiatus, have maintained the 2003 cease-fire in Kashmir, and continue to have disputes over water sharing of the Indus River and its tributaries; UN Military Observer Group in India and Pakistan has maintained a small group of peacekeepers since 1949. India does not recognize Pakistan's ceding historic Kashmir lands to China in 1964."
+  },
+  "B07": {
+    "territory": "Aksai Chin",
+    "countries": ["CHN", "IND"],
+    "centroid": [79.12009, 35.04008],
+    "zoom": 5.90100192891192,
+    "text": "Kashmir remains the site of the world's largest and most militarized territorial dispute with portions under the de facto administration of China (Aksai Chin and Shaksam Valley), India (Jammu and Kashmir), and Pakistan (Azad Kashmir and Northern Areas); India and Pakistan resumed bilateral dialogue in February 2011 after a two-year hiatus, have maintained the 2003 cease-fire in Kashmir, and continue to have disputes over water sharing of the Indus River and its tributaries; UN Military Observer Group in India and Pakistan has maintained a small group of peacekeepers since 1949; India does not recognize Pakistan's ceding historic Kashmir lands to China in 1964."
+  },
+  "B08": {
+    "territory": "Azad Kashmir & Northern Areas",
+    "countries": ["PAK", "IND"],
+    "centroid": [74.82111, 35.54879],
+    "zoom": 5.91333803466477,
+    "text": "Kashmir remains the site of the world's largest and most militarized territorial dispute with portions under the de facto administration of China (Aksai Chin and Shaksam Valley), India (Jammu and Kashmir), and Pakistan (Azad Kashmir and Northern Areas); India and Pakistan resumed bilateral dialogue in February 2011 after a two-year hiatus, have maintained the 2003 cease-fire in Kashmir, and continue to have disputes over water sharing of the Indus River and its tributaries; UN Military Observer Group in India and Pakistan has maintained a small group of peacekeepers since 1949. India does not recognize Pakistan's ceding historic Kashmir lands to China in 1964."
+  },
+  "B10": {
+    "territory": "Korean Demilitarized Zone (south)",
+    "countries": ["KOR", "PRK"],
+    "centroid": [127.3416, 38.31688],
+    "zoom": 6.92441586078364,
+    "text": "The Military Demarcation Line within the 4-km-wide Demilitarized Zone has separated North from South Korea since 1953. Periodic incidents occur with North Korea in the Yellow Sea over the Northern Limit Line, which South Korea claims as a maritime boundary"
+  },
+  "B11": {
+    "territory": "Korean Demilitarized Zone (north)",
+    "countries": ["PRK", "KOR"],
+    "centroid": [126.83544, 38.06234],
+    "zoom": 6.8765213637164,
+    "text": "The Military Demarcation Line within the 4-km-wide Demilitarized Zone has separated North from South Korea since 1953. Periodic incidents occur with North Korea in the Yellow Sea over the Northern Limit Line, which South Korea claims as a maritime boundary"
+  },
+  "B12": {
+    "territory": "Falkland Islands",
+    "countries": ["GBR", "ARG"],
+    "centroid": [-59.57394, -51.83087],
+    "zoom": 6.17324143539753,
+    "text": "Argentina continues to assert claims to the UK-administered Falkland Islands (Islas Malvinas), South Georgia, and the South Sandwich Islands in its constitution. It forcibly occupied the Falklands in 1982, but in 1995 agreed to no longer seek settlement by force. The UK continues to reject Argentine requests for sovereignty talks."
+  },
+  "B13": {
+    "territory": "Abyei",
+    "countries": ["SDN", "SSD"],
+    "centroid": [28.41426, 9.76783],
+    "zoom": 6.93157733715086,
+    "text": "South Sudan-Sudan boundary represents 1 January 1956 alignment, final alignment pending negotiations and demarcation. Final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan."
+  },
+  "B14": {
+    "territory": "Lawa Headwaters",
+    "countries": ["FRA", "SUR"],
+    "centroid": [-54.20509, 2.60988],
+    "zoom": 6.60312179989351,
+    "text": "French Guiana claims from Suriname the areas between Riviere Litani and Riviere Marouini (both headwaters of the Lawa)."
+  },
+  "B15": {
+    "territory": "Courantyne Headwaters",
+    "countries": ["GUY", "SUR"],
+    "centroid": [-57.43691, 2.30836],
+    "zoom": 6.17186933202439,
+    "text": "Suriname claims a triangle of land between the New and Kutari/Koetari rivers in a historic dispute over the headwaters of the Courantyne; Guyana seeks United Nations Convention on the Law of the Sea arbitration to resolve the longstanding dispute with Suriname over the axis of the territorial sea boundary in potentially oil-rich waters."
+  },
+  "B16": {
+    "territory": "Golan Heights",
+    "countries": ["ISR", "SYR", "LBN"],
+    "centroid": [35.72411, 33.0155],
+    "zoom": 7.05743241109425,
+    "text": "Golan Heights is Israeli-occupied with the almost 1,000-strong UN Disengagement Observer Force patrolling a buffer zone since 1964. Lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute. Since 2000, Lebanon has claimed Shab'a Farms in the Golan Heights."
+  },
+  "B17": {
+    "territory": "Ilemi Triangle",
+    "countries": ["KEN", "SSD"],
+    "centroid": [35.13235, 4.76566],
+    "zoom": 7.57727427284594,
+    "text": "The boundary that separates Kenya and South Sudan's sovereignty is unclear in the Ilemi Triangle, which Kenya has administered since colonial times."
+  },
+  "B18": {
+    "territory": "Pinnacle Islands",
+    "countries": ["JPN", "CHN", "TWN"],
+    "centroid": [123.56695, 25.79349],
+    "zoom": 8.26999040146799,
+    "text": "Following the discovery of potential undersea oil reserves in 1968 in the area and the 1971 transfer of administrative control of the islands from the United States to Japan, the latter's sovereignty over the territory is disputed by both China and the Taiwan."
+  },
+  "B19": {
+    "territory": "Western Sahara, Morocco-Controled",
+    "countries": ["MAR", "ESH"],
+    "centroid": [-13.61638, 24.87408],
+    "zoom": 5.10116177283011,
+    "text": "In the 1975 Western Sahara War, the indigenous Sahrawi National Liberation Movement gained control of a portion of the territory from Morocco, proclaiming it the Sahrawi Arab Democratic Republic (SADR). From that time until a ceasefire was agreed in 1991, the violent conflict continued, mostly in the form of guerrilla warfare. Currently, Morocco retains de facto control of two thirds of the territory, including most major cities and natural resources. The SADR administers the remainder of Western Sahara (the eastern portion). The United Nations categorizes Western Sahara as a non-self-governing territory."
+  },
+  "B20": {
+    "territory": "Northern Cyprus",
+    "countries": ["XNC", "CYP"],
+    "centroid": [33.57514, 35.27401],
+    "zoom": 7.10678089983486,
+    "text": "Hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south. On 1 May 2004, Cyprus entered the European Union still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007."
+  },
+  "B21": {
+    "territory": "Hans Island",
+    "countries": ["DNK", "CAN"],
+    "centroid": [-66.41509, 80.82594],
+    "zoom": 7.7,
+    "text": "Sovereignty dispute between Denmark (Greenland) and Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland."
+  },
+  "B22": {
+    "territory": "Mayotte",
+    "countries": ["FRA", "COM"],
+    "centroid": [45.15224, -12.8062],
+    "zoom": 7.74454460153784,
+    "text": "The nation of Comoros claims ownership of Mayotte, currently administered by France."
+  },
+  "B23": {
+    "territory": "Juan De Nova Island",
+    "countries": ["FRA", "MDG"],
+    "centroid": [42.72297, -17.05528],
+    "zoom": 10.3848589213091,
+    "text": "Madagascar claims French-administered Juan De Nova Island."
+  },
+  "B24": {
+    "territory": "Glorioso Islands",
+    "countries": ["FRA", "MDG"],
+    "centroid": [47.29803, -11.57843],
+    "zoom": 10.3609689973923,
+    "text": "Madagascar claims French-administered Glorioso Islands."
+  },
+  "B25": {
+    "territory": "Tromelin Island",
+    "countries": ["FRA", "MUS", "SYC"],
+    "centroid": [54.52454, -15.8917],
+    "zoom": 11.0654770580424,
+    "text": "Mauritius and Seychelles claim French-administered Tromelin Island."
+  },
+  "B26": {
+    "territory": "Europa Island",
+    "countries": ["FRA", "MDG"],
+    "centroid": [40.36837, -22.3878],
+    "zoom": 9.48372041617022,
+    "text": "Madagascar claims French-administered Europa Island."
+  },
+  "B27": {
+    "territory": "Bassas da India",
+    "countries": ["FRA", "MDG"],
+    "centroid": [39.6861, -21.49502],
+    "zoom": 9.36737238142369,
+    "text": "Madagascar claims French-administered Bassas da India."
+  },
+  "B28": {
+    "territory": "Western Sahara, SADR-Controlled",
+    "countries": ["ESH", "MAR"],
+    "centroid": [-12.22777, 24.22426],
+    "zoom": 5.01073093148458,
+    "text": "In 1975, Spain relinquished the administrative control of Western Sahara to a joint administration by Morocco (which had formally claimed the territory since 1957) and Mauritania. A war erupted between those countries and the Sahrawi National Liberation Movement, which proclaimed the Sahrawi Arab Democratic Republic (SADR) with a government-in-exile in Tindouf, Algeria. Mauritania withdrew in 1979, and Morocco eventually secured de facto control of most of the territory, including all the major cities and natural resources. Since a United Nations-sponsored ceasefire agreement in 1991, two thirds of the territory has been under de facto control by Morocco and the remainder by the SADR, strongly backed by Algeria. Formally, Western Sahara is recognized by the United Nations as a non-self-governing territory."
+  },
+  "B29": {
+    "territory": "Kuril Islands",
+    "countries": ["RUS", "JPN"],
+    "centroid": [147.18237, 44.54143],
+    "zoom": 6.08165192893072,
+    "text": "The sovereignty dispute over the islands of Etorofu, Kunashiri, and Shikotan, and the Habomai group, known in Japan as the Northern Territories and in Russia as the Southern Kuril Islands, occupied by the Soviet Union in 1945, now administered by Russia and claimed by Japan, remains the primary sticking point to signing a peace treaty formally ending World War II hostilities."
+  },
+  "B30": {
+    "territory": "Somaliland",
+    "countries": ["SOL", "SOM"],
+    "centroid": [46.25388, 9.73157],
+    "zoom": 5.61837624839832,
+    "text": "Since the Somali Civil War, which ended in 1991, the territory has been governed by an administration that seeks self-determination as the Republic of Somaliland. The local government maintains informal ties with some foreign governments. However, Somaliland's self-proclaimed independence remains unrecognised by any country or international organisation."
+  },
+  "B31": {
+    "territory": "Rockall Island",
+    "countries": ["GBR", "ISL", "DNK"],
+    "centroid": [-13.68818, 57.597],
+    "zoom": 12.6860844078293,
+    "text": "Rockall is an uninhabited remote granite islet in the North Atlantic Ocean. Denmark, Iceland, and the U.K. have each claimed ownership of the islet, ostensibly to gain control of the oil-rich seabed that surrounds it."
+  },
+  "B34": {
+    "territory": "Navassa Island",
+    "countries": ["USA", "HTI"],
+    "centroid": [-75.00439, 18.40379],
+    "zoom": 10.2294685293312,
+    "text": "Haiti claims US-administered Navassa Island, a small, uninhabited  Caribbean island."
+  },
+  "B35": {
+    "territory": "Abkhazia",
+    "countries": ["GEO", "RUS"],
+    "centroid": [41.17243, 43.09525],
+    "zoom": 6.62556929944172,
+    "text": "The status of Abkhazia is a central issue of the Georgian–Abkhazian conflict. The wider region formed part of the Soviet Union until 1991. As the Soviet Union began to disintegrate towards the end of the 1980s, ethnic tensions grew between the Abkhaz and Georgians over Georgia's moves towards independence. This led to the 1992–1993 War in Abkhazia that resulted in a Georgian military defeat, de facto independence of Abkhazia and the mass exodus and ethnic cleansing of the Georgian population from Abkhazia. In spite of the 1994 ceasefire agreement and years of negotiations, the status dispute has not been resolved, and despite the long-term presence of a United Nations monitoring force and a Commonwealth of Independent States (CIS) peacekeeping operation, the conflict has flared up on several occasions. In August 2008, the sides again fought during the South Ossetia War, which was followed by the formal recognition of Abkhazia by Russia, the annulment of the 1994 ceasefire agreement and the termination of the UN and OSCE missions. On 28 August 2008, the Parliament of Georgia passed a resolution declaring Abkhazia a Russian-occupied territory. A major part of international community considers Abkhazia to be occupied by the Russian military."
+  },
+  "B36": {
+    "territory": "Transnistria",
+    "countries": ["MDA", "RUS"],
+    "centroid": [29.31204, 47.32263],
+    "zoom": 6.33863301195422,
+    "text": "Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops. Along with Nagorno-Karabakh, Abkhazia, and South Ossetia, Transnistria is a post-Soviet frozen conflict zone."
+  },
+  "B37": {
+    "territory": "South Ossetia",
+    "countries": ["GEO", "RUS"],
+    "centroid": [44.0771, 42.32678],
+    "zoom": 7.01383632204482,
+    "text": "South Ossetia declared independence from Georgia in 1990, calling itself the Republic of South Ossetia. The Georgian government responded by abolishing South Ossetia's autonomy and trying to re-establish its control over the region by force. The crisis escalation led to the 1991–92 South Ossetia War. Georgian fighting against those controlling South Ossetia occurred on two other occasions, in 2004 and 2008. The latter conflict led to the Russia–Georgia war, during which Ossetian and Russian forces gained full de facto control of the territory of the former South Ossetian Autonomous Oblast. Georgia and a significant part of the international community consider South Ossetia to be occupied by the Russian military."
+  },
+  "B38": {
+    "territory": "Nagorno-Karabakh",
+    "countries": ["AZE", "ARM"],
+    "centroid": [46.62116, 39.76165],
+    "zoom": 6.3805840818663,
+    "text": "The dispute over the break-away Nagorno-Karabakh region and the Armenian military occupation of surrounding lands in Azerbaijan remains the primary focus of regional instability. Residents have evacuated the former Soviet-era small ethnic enclaves in Armenia and Azerbaijan. Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley. In 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered."
+  },
+  "B39": {
+    "territory": "Dokdo",
+    "countries": ["KOR", "JPN"],
+    "centroid": [131.86643, 37.24201],
+    "zoom": 12.258308796965,
+    "text": "Dokdo are a group of small islets in the Sea of Japan. While South Korea controls the islets, its sovereignty over them is contested by Japan."
+  },
+  "B40": {
+    "territory": "Baikonur Cosmodrome",
+    "countries": ["KAZ", "RUS"],
+    "centroid": [63.3839, 45.97833],
+    "zoom": 6.94308801798498,
+    "text": "Located in the desert steppe of Kazakhstan, the Baikonur Cosmodrome is the world's first and largest operational space launch facility. It is leased by the Kazakh government to Russia (until 2050). The $115 million annual rent price and Kazakh concerns about the fall zone of debris have led to ongoing dispute between the two nations."
+  },
+  "B41": {
+    "territory": "Bajo Nuevo Bank",
+    "countries": ["COL", "JAM", "NIC", "USA"],
+    "centroid": [-79.7377, 15.73715],
+    "zoom": 9.18056767624632,
+    "text": "Colombia, Nicaragua, Jamaica, and the US assert various claims to Bajo Nuevo Bank, a series of uninhabited reef islands in the Western Caribbean."
+  },
+  "B42": {
+    "territory": "Serranilla Bank",
+    "countries": ["COL", "JAM", "HND", "NIC", "USA"],
+    "centroid": [-78.64529, 15.84999],
+    "zoom": 11.5545870463821,
+    "text": "Colombia, Honduras, Nicaragua, Jamaica, and the US assert various claims to Serranilla Bank, a small group of uninhabited reef islands in the remote western Caribbean. "
+  },
+  "B43": {
+    "territory": "Cyprus No Mans Area",
+    "countries": ["CYP", "XNC"],
+    "centroid": [33.25292, 35.10317],
+    "zoom": 8.13949383283521,
+    "text": "Hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the European Union still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north. Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007."
+  },
+  "B46": {
+    "territory": "Spratly Islands",
+    "countries": ["CHN", "TWN", "MYS", "PHL", "VNM"],
+    "centroid": [114.74364, 9.52328],
+    "zoom": 5.81334263753329,
+    "text": "China, Malaysia, Taiwan, the Philippines, and Vietnam claim sovereignty over the Spratly Islands, known locally as the Kalayaan (Freedom) Islands. The 2002 Declaration on the Conduct of Parties in the South China Sea has eased tensions in the Spratly Islands but falls short of a legally binding code of conduct desired by several of the disputants. In March 2005, the national oil companies of China, the Philippines, and Vietnam signed a joint accord to conduct marine seismic activities in the Spratly Islands."
+  },
+  "B47": {
+    "territory": "Paracel Islands",
+    "countries": ["CHN", "VNM", "TWN"],
+    "centroid": [111.92043, 16.42138],
+    "zoom": 7.2,
+    "text": "The Paracel Islands, one of several disputed archipelagos in the South China Sea, are occupied by China and also claimed by Vietnam and Taiwan."
+  },
+  "B48": {
+    "territory": "Bird Island",
+    "countries": ["VEN", "DMA", "NLD", "BRB"],
+    "centroid": [-63.63113, 15.68232],
+    "zoom": 11.0654770580424,
+    "text": "Bird Island is a Caribbean dependency of Venezuela. It has been the subject of numerous territorial disputes between the neighboring independent islands, such as Dominica, and European mother countries of surrounding dependent islands, such as the Netherlands."
+  },
+  "B49": {
+    "territory": "Golan Buffer Zone",
+    "countries": ["SYR", "ISR"],
+    "centroid": [35.84565, 33.15613],
+    "zoom": 7.10982334703412,
+    "text": "Golan Heights is Israeli-occupied with the almost 1,000-strong UN Disengagement Observer Force patrolling a buffer zone since 1964."
+  },
+  "B50": {
+    "territory": "Guantanamo Bay USNB",
+    "countries": ["USA", "CUB"],
+    "centroid": [-75.15695, 19.92957],
+    "zoom": 9.06226220986897,
+    "text": "The Naval Base at Guantanamo Bay was leased to the U.S. originally in 1903, and only mutual agreement or U.S. abandonment of the facility can terminate the lease. In exchange for use of the land, the U.S. pays Cuba rent of $4,085 a month. One rent check was cashed after the Cuban Revolution, but the Government of Cuba has declined to cash all subsequent checks, in protest of what it deems an illegal occupation."
+  },
+  "B51": {
+    "territory": "Southern Belize",
+    "countries": ["BLZ", "GTM"],
+    "centroid": [-88.66252, 16.57949],
+    "zoom": 6.36443510198374,
+    "text": "Since 1940, Guatemala has, in whole or in part, claimed sovereignty over its neighbor Belize. The foundations of this territorial dispute date back to 1859, when Guatemala signed a treaty with the UK, agreeing to recognize Belize in exchange for economic assistance. In 1940, Guatemala claimed the treaty to be void, citing lack of compliance with the treaty on the part of the U.K. Separately, Belize asserts that since it did not sign the treaty, it is not bound by the agreement. As such, it demands that its borders be honored, regardless of U.K. compliance."
+  },
+  "B52": {
+    "territory": "Mbane Island",
+    "countries": ["GAB", "GNQ"],
+    "centroid": [9.38006, 0.80622],
+    "zoom": 12.055213835492,
+    "text": "In 2002, the International Court of Justice ruled on an equidistance settlement of Cameroon-Equatorial Guinea-Nigeria maritime boundary in the Gulf of Guinea, but a dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River and imprecisely defined maritime coordinates in the ICJ decision delayed final delimitation. The UN urged Equatorial Guinea and Gabon to resolve the sovereignty dispute over Gabon-occupied Mbane and lesser islands and to create a maritime boundary in the hydrocarbon-rich Corisco Bay."
+  },
+  "B53": {
+    "territory": "Gaza Strip",
+    "countries": ["ISR", "PSE"],
+    "centroid": [34.3378, 31.40407],
+    "zoom": 7.66875032017424,
+    "text": "The West Bank and Gaza Strip are Israeli-occupied with current status subject to the Israeli-Palestinian Interim Agreement - permanent status to be determined through further negotiation. Israel continues construction of a seam line separation barrier along parts of the Green Line and within the West Bank. Israel withdrew its settlers and military from the Gaza Strip and from four settlements in the West Bank in August 2005."
+  },
+  "B54": {
+    "territory": "West Bank",
+    "countries": ["ISR", "PSE"],
+    "centroid": [35.25319, 31.94413],
+    "zoom": 6.60380546930056,
+    "text": "The West Bank and Gaza Strip are Israeli-occupied with current status subject to the Israeli-Palestinian Interim Agreement - permanent status to be determined through further negotiation. Israel continues construction of a seam line separation barrier along parts of the Green Line and within the West Bank. Israel withdrew its settlers and military from the Gaza Strip and from four settlements in the West Bank in August 2005."
+  },
+  "B55": {
+    "territory": "Gibraltar",
+    "countries": ["GBR", "ESP"],
+    "centroid": [-5.35147, 36.13755],
+    "zoom": 9.94148371960936,
+    "text": "Gibraltar, a British Overseas Territory, is the subject of a disputed claim by Spain. It was captured in 1704 during the War of the Spanish Succession. The Spanish Crown formally ceded the territory in perpetuity to the British Crown in 1713, under Treaty of Utrecht. This was confirmed in later treaties signed in Paris and Seville. Spain later attempted to recapture the territory by force during the thirteenth siege (1727) and the Great siege (1779–1783), and reclamation of the territory by peaceful means remains its government's policy. The Gibraltarians themselves reject any such claim and no political party or pressure group in Gibraltar supports union with Spain. In a referendum in 2002 the people of Gibraltar soundly rejected a joint sovereignty proposal on which Spain and the United Kingdom were said to have reached broad agreement."
+  },
+  "B56": {
+    "territory": "West of Essequibo River",
+    "countries": ["GUY", "VEN"],
+    "centroid": [-59.48966, 5.10594],
+    "zoom": 4.94977094515221,
+    "text": "All of Guyana west of the Essequibo River is claimed by Venezuela, preventing any discussion of a maritime boundary."
+  },
+  "B57": {
+    "territory": "Kosovo",
+    "countries": ["XKO", "SRB"],
+    "centroid": [20.87523, 42.57341],
+    "zoom": 6.44942534057692,
+    "text": "Serbia with several other states protest the U.S. and other states' recognition of Kosovo's declaration of its status as a sovereign and independent state in February 2008. Ethnic Serbian municipalities along Kosovo's northern border challenge final status of Kosovo-Serbia boundary. Several thousand NATO-led Kosovo Force peacekeepers under United Nations Interim Administration Mission in Kosovo authority continue to keep the peace within Kosovo between the ethnic Albanian majority and the Serb minority."
+  },
+  "B59": {
+    "territory": "Wake Atoll",
+    "countries": ["USA", "MHL"],
+    "centroid": [166.56807, 19.3723],
+    "zoom": 9.9534596008956,
+    "text": "Wake Island (also known as Wake Atoll) is an unorganized, unincorporated territory of the United States, located in the western Pacific Ocean in the northeastern area of the Micronesia subregion. U.S. Sovereignty over Wake Island is contested by the Marshall Islands. A small separatist group, known as the Kingdom of EnenKio, also claims the island."
+  },
+  "B60": {
+    "territory": "Ceuta",
+    "countries": ["ESP", "MAR"],
+    "centroid": [-5.34289, 35.89135],
+    "zoom": 9.08055737554029,
+    "text": "Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and Penon de Velez de la Gomera, the islands of Penon de Alhucemas and Islas Chafarinas, and surrounding waters. Both countries claim Isla Perejil (Leila Island). Discussions have not progressed on a comprehensive maritime delimitation, setting limits on resource exploration and refugee interdiction, since Morocco's 2002 rejection of Spain's unilateral designation of a median line from the Canary Islands. Morocco serves as one of the primary launching areas of illegal migration into Spain from North Africa."
+  },
+  "B61": {
+    "territory": "Melilla",
+    "countries": ["ESP", "MAR"],
+    "centroid": [-2.94419, 35.29894],
+    "zoom": 9.30026197652447,
+    "text": "Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and Penon de Velez de la Gomera, the islands of Penon de Alhucemas and Islas Chafarinas, and surrounding waters. Both countries claim Isla Perejil (Leila Island). Discussions have not progressed on a comprehensive maritime delimitation, setting limits on resource exploration and refugee interdiction, since Morocco's 2002 rejection of Spain's unilateral designation of a median line from the Canary Islands. Morocco serves as one of the primary launching areas of illegal migration into Spain from North Africa."
+  },
+  "B62": {
+    "territory": "Isla De Perejil",
+    "countries": ["ESP", "MAR"],
+    "centroid": [-5.41855, 35.9144],
+    "zoom": 11.6466000659838,
+    "text": "Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and Penon de Velez de la Gomera, the islands of Penon de Alhucemas and Islas Chafarinas, and surrounding waters. Both countries claim Isla Perejil (Leila Island). Discussions have not progressed on a comprehensive maritime delimitation, setting limits on resource exploration and refugee interdiction, since Morocco's 2002 rejection of Spain's unilateral designation of a median line from the Canary Islands. Morocco serves as one of the primary launching areas of illegal migration into Spain from North Africa."
+  },
+  "B63": {
+    "territory": "Penon De Velez De Gomera",
+    "countries": ["ESP", "MAR"],
+    "centroid": [-4.30189, 35.17656],
+    "zoom": 12.7488785351703,
+    "text": "Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and Penon de Velez de la Gomera, the islands of Penon de Alhucemas and Islas Chafarinas, and surrounding waters. Both countries claim Isla Perejil (Leila Island). Discussions have not progressed on a comprehensive maritime delimitation, setting limits on resource exploration and refugee interdiction, since Morocco's 2002 rejection of Spain's unilateral designation of a median line from the Canary Islands. Morocco serves as one of the primary launching areas of illegal migration into Spain from North Africa."
+  },
+  "B64": {
+    "territory": "Penon De Alhucemas",
+    "countries": ["ESP", "MAR"],
+    "centroid": [-3.89578, 35.22593],
+    "zoom": 12.0253700521349,
+    "text": "Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and Penon de Velez de la Gomera, the islands of Penon de Alhucemas and Islas Chafarinas, and surrounding waters. Both countries claim Isla Perejil (Leila Island). Discussions have not progressed on a comprehensive maritime delimitation, setting limits on resource exploration and refugee interdiction, since Morocco's 2002 rejection of Spain's unilateral designation of a median line from the Canary Islands. Morocco serves as one of the primary launching areas of illegal migration into Spain from North Africa."
+  },
+  "B65": {
+    "territory": "Islas Chafarinas",
+    "countries": ["ESP", "MAR"],
+    "centroid": [-2.43206, 35.18016],
+    "zoom": 10.9594133569701,
+    "text": "Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and Penon de Velez de la Gomera, the islands of Penon de Alhucemas and Islas Chafarinas, and surrounding waters. Both countries claim Isla Perejil (Leila Island). Discussions have not progressed on a comprehensive maritime delimitation, setting limits on resource exploration and refugee interdiction, since Morocco's 2002 rejection of Spain's unilateral designation of a median line from the Canary Islands. Morocco serves as one of the primary launching areas of illegal migration into Spain from North Africa."
+  },
+  "B66": {
+    "territory": "Matthew & Hunter Islands",
+    "countries": ["FRA", "VUT"],
+    "centroid": [171.62954, -22.37393],
+    "zoom": 9.40123497750987,
+    "text": "Matthew and Hunter Islands, east of New Caledonia, are claimed by France and Vanuatu."
+  },
+  "B67": {
+    "territory": "Olivenza",
+    "countries": ["ESP", "PRT"],
+    "centroid": [-7.24577, 38.56098],
+    "zoom": 8.74205880578477,
+    "text": "Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz."
+  },
+  "B68": {
+    "territory": "Tiran and Sanafir Islands",
+    "countries": ["EGY", "SAU"],
+    "centroid": [34.60203, 27.94637],
+    "zoom": 8.79197637950195,
+    "text": "Sanafir Island is an island in the Straits of Tiran east of Tiran Island. Egypt administers the island, but it is also claimed by Saudi Arabia."
+  },
+  "B69": {
+    "territory": "Chagos Archipelago",
+    "countries": ["GBR", "MUS"],
+    "centroid": [71.46349, -6.02064],
+    "zoom": 6.4428431917454,
+    "text": "Sovereignty over the Chagos Archipelago is disputed between Mauritius and the United Kingdom. Mauritius has repeatedly asserted that the Chagos Archipelago is part of its territory and that the United Kingdom (UK) claim is a violation of United Nations' resolutions banning the dismemberment of colonial territories before independence. The UK has stated that it has no doubt about its sovereignty over the Chagos but has also said that the Chagos will be returned to Mauritius once the islands are no longer required for defence purposes. Given the absence of any progress with the UK, Mauritius has decided to internationalise the dispute and take up the matter at all appropriate legal and political forums. The African Union and the Non-Aligned Movement have expressed unanimous support for Mauritius on the Chagos issue."
+  },
+  "B70": {
+    "territory": "Scarborough Shoal",
+    "countries": ["CHN", "PHL", "TWN"],
+    "centroid": [117.74509, 15.15128],
+    "zoom": 11.7275559624874,
+    "text": "Scarborough Shoal is a Philippines-administered island in the South China Sea. The People's Republic of China and the Republic of China (Taiwan) assert sovereignty of the island, claiming that Chinese people discovered the shoal centuries ago and that there is a long history of Chinese fishing activity in the area. The shoal lies within the nine-dotted line drawn by China on maps marking its claim to islands and relevant waters, beyond the bounds of the United Nations Convention on the Law of the Sea (UNCLOS) within the South China Sea."
+  },
+  "B71": {
+    "territory": "Swains Island",
+    "countries": ["USA", "TKL"],
+    "centroid": [-171.08087, -11.05262],
+    "zoom": 10.608765301112,
+    "text": "Swains Island is an atoll in the Tokelau chain. Culturally a part of Tokelau, Swains Island is privately owned by the Jennings family and administered by the United States as part of American Samoa. In its 2006 draft independence constitution, Tokelau claimed Swains Island as part of its territory."
+  },
+  "B72": {
+    "territory": "Atacama corridor",
+    "countries": ["CHL", "BOL"],
+    "centroid": [-69.17313, -21.42611],
+    "zoom": 5.0883491199322,
+    "text": "Bolivia asserts ownership of the Atacama corridor on the basis of the case stems from two bilateral negotiations in the 1970s and 1950s where a sovereign route to the pacific was allegedly promised by Chile but never eventuated. Chile rejects Bolivia's claims, yet grants unrestricted traffic to all kinds of Bolivian merchandise through that territory."
+  },
+  "B73": {
+    "territory": "Abu Musa Island",
+    "countries": ["IRN", "ARE"],
+    "centroid": [55.03232, 25.87153],
+    "zoom": 9.73957928001455,
+    "text": "Abu Musa Island is a 12.8 square kilometer (4.9 sq mi) Iranian island in the eastern Persian Gulf near the entrance to the Strait of Hormuz. Due to the depth of sea, oil tankers and big ships have to pass between Abu Musa and Greater and Lesser Tunbs; this makes these islands some of the most strategic points in the Persian Gulf. The island is administered by Iran as part of its province of Hormozgan, but is also claimed by the United Arab Emirates as a territory of the emirate of Sharjah."
+  },
+  "B75": {
+    "territory": "North-West Bhutan",
+    "countries": ["BTN", "CHN"],
+    "centroid": [90.21909, 28.22407],
+    "zoom": 7.87233513841163,
+    "text": "Lacking any treaty describing the boundary, Bhutan and China continue negotiations to establish a common boundary alignment to resolve territorial disputes arising from substantial cartographic discrepancies, the largest of which lie in Bhutan's northwest and along the Chumbi salient."
+  },
+  "B76": {
+    "territory": "Chumbi Salient",
+    "countries": ["BTN", "CHN"],
+    "centroid": [89.06757, 27.54896],
+    "zoom": 8.59733230368442,
+    "text": "Lacking any treaty describing the boundary, Bhutan and China continue negotiations to establish a common boundary alignment to resolve territorial disputes arising from substantial cartographic discrepancies, the largest of which lie in Bhutan's northwest and along the Chumbi salient."
+  },
+  "B80": {
+    "territory": "Sapodilla Cayes",
+    "countries": ["BLZ", "HND", "GTM"],
+    "centroid": [-88.26613, 16.1215],
+    "zoom": 9.40948665548319,
+    "text": "The Sapodilla Cayes are generally considered to be within the territorial waters of Belize, but Guatemala claims that the Belize–Guatemala maritime boundary is northwest of the cayes. Honduras also lays a claim to the Sapodilla Cayes in its 1982 constitution."
+  },
+  "B88": {
+    "territory": "Kalapani Territory",
+    "countries": ["IND", "NPL"],
+    "centroid": [80.97033, 30.20871],
+    "zoom": 9.08402904095544,
+    "text": "Although claimed by Nepal as part of Darchula District, Kalapani is controlled by India's Indo-Tibetan border security forces since the 1962 border war with China. Nepal claims that the river to the west of Kalapani is main Kali, hence it belongs to Nepal. But India claims that ridgeline to the east of Kalapani is the border, hence the Kalapani area belongs to India."
+  },
+  "p0": {
+    "territory": "Hill of Phnom Trap",
+    "countries": ["THA", "KHM"],
+    "centroid": [104.28755, 14.40428],
+    "zoom": 7.60196553381039,
+    "text": "In 2013, the International Court of Justice declared Cambodia rightful owner of the area surrounding Preah Vihear Temple. However, Thailand rejects Cambodia's argument that the judgment had also awarded the hill of Phnom Trap (three kilometers northwest of the temple) to Cambodia, finding that the ICJ had made no ruling on sovereignty over the hill."
+  },
+  "p1": {
+    "territory": "Badme",
+    "countries": ["ETH", "ERI"],
+    "centroid": [37.79985, 14.67065],
+    "zoom": 7.60196553381039,
+    "text": "In 2000, Eritrea and Ethiopia signed the Algiers Agreement which forwarded the border dispute to a Hague boundary commission. In the Agreement both parties agreed in advance to comply with the ruling of the Border Commission. In 2002, the commission ruled on where the boundary ran, placing Badme inside Eritrean territory. Despite initially agreeing to abide by the terms of the Algiers Agreement, Ethiopia refused to withdraw to the border established by the Eritrea-Ethiopia Boundary Commission and rejected its ruling. As a result, thousands of internally displaced people have remained in refugee camps and the threat of renewed war continues."
+  },
+  "p10": {
+    "territory": "Doumeira Island",
+    "countries": ["DJI", "ERI"],
+    "centroid": [43.13641, 12.71285],
+    "zoom": 11.9684669087654,
+    "text": "In 2008, Eritrean troops moved across the border on Ras Doumera peninsula and occupied Doumera Island with undefined sovereignty in the Red Sea."
+  },
+  "p11": {
+    "territory": "Conejo Island",
+    "countries": ["SLV", "HND"],
+    "centroid": [-87.74585, 13.34191],
+    "zoom": 10.4812912748738,
+    "text": "The International Court of Justice (ICJ) ruled on the delimitation of bolsones (disputed areas) along the El Salvador-Honduras boundary, in 1992, with final agreement by the parties in 2006 after an Organization of American States survey and a further ICJ ruling in 2003; the 1992 ICJ ruling advised a tripartite resolution to a maritime boundary in the Gulf of Fonseca advocating Honduran access to the Pacific; El Salvador continues to claim tiny Conejo Island, not identified in the ICJ decision, off Honduras in the Gulf of Fonseca."
+  },
+  "p12": {
+    "territory": "Narva Reservoir",
+    "countries": ["EST", "RUS"],
+    "centroid": [28.16609, 59.31366],
+    "zoom": 7.60196553381039,
+    "text": "There have been disputes about the Estonian-Russian border in the Narva area, as the new constitution of Estonia (adopted in 1992) recognizes the 1920 Treaty of Tartu border to be currently legal. The Russian Federation, however, considers Estonia to be a successor of the Estonian SSR and recognizes the 1945 border between two former national republics. Officially, Estonia has no territorial claims in the area, which was also reflected in the new Estonian-Russian border treaty signed in Moscow in May 18, 2005. Russia didn't ratify it because together with the ratification Estonian parliament approved a communique which reminded of Soviet Occupation. In February 18, 2014 a new border treaty was signed by the both countries.The treaty must still be ratified by the parliaments of both Russia and Estonia."
+  },
+  "p13": {
+    "territory": "Yenga",
+    "countries": ["GIN", "SLE"],
+    "centroid": [-10.32372, 8.50051],
+    "zoom": 10.2484393461341,
+    "text": "Sierra Leone considers Guinea's definition of the flood plain limits to define the left bank boundary of the Makona and Moa Rivers excessive and protests Guinea's continued occupation of these lands, including the hamlet of Yenga, occupied since 1998."
+  },
+  "p15": {
+    "territory": "Latvia-Lithuania Maritime Border",
+    "countries": ["LVA", "LTU"],
+    "centroid": [20.27714, 55.98736],
+    "zoom": 6.82672056683016,
+    "text": "The Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights."
+  },
+  "p16": {
+    "territory": "Benin-Niger-Nigeria Tripoint",
+    "countries": ["BEN", "NER", "NGA"],
+    "centroid": [3.60127, 11.69608],
+    "zoom": 7.60196553381039,
+    "text": "The location of Benin-Niger-Nigeria tripoint is unresolved."
+  },
+  "p17": {
+    "territory": "Peru-Chile Maritime Border",
+    "countries": ["PER", "CHL"],
+    "centroid": [-71.12366, -18.66292],
+    "zoom": 6.58389462536276,
+    "text": "Chile rejects Peru's unilateral legislation to change its latitudinal maritime boundary with Chile to an equidistance line with a southwestern axis favoring Peru. In October 2007, Peru took its maritime complaint with Chile to the International Court of Justice."
+  },
+  "p18": {
+    "territory": "Sabanerwa",
+    "countries": ["RWA", "BDI"],
+    "centroid": [29.78936, -2.76899],
+    "zoom": 9.4512114659127,
+    "text": "Burundi and Rwanda dispute two sq km (0.8 sq mi) of Sabanerwa, a farmed area in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965."
+  },
+  "p2": {
+    "territory": "Ashmore Reef",
+    "countries": ["AUS", "IDN"],
+    "centroid": [123.07416, -12.24121],
+    "zoom": 7.60196553381039,
+    "text": "All borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime boundary disputes has yet to be ratified by Indonesia's legislature. Indonesian groups challenge Australia's claim to Ashmore Reef. Australia has closed parts of the Ashmore reserve to Indonesian fishing."
+  },
+  "p20": {
+    "territory": "4-Way Convergence Point",
+    "countries": ["BWA", "NAM", "ZMB", "ZWE"],
+    "centroid": [25.25794, -17.8],
+    "zoom": 8.28038355502142,
+    "text": "In what is arguably the only four nation quadripoint in the world, the borders of Namibia, Botswana, Zambia, and Zimbabwe come together at the confluence of the Cuando and Zambezi rivers. However, the exact meeting point of the borders is undetermined, so it may actually be two separate trijunctions some 100 or 150 meters apart."
+  },
+  "p3": {
+    "territory": "USA-Bahamas Maritime Border",
+    "countries": ["USA", "BHS"],
+    "centroid": [-79.45132, 26.73264],
+    "zoom": 6.9249780578936,
+    "text": "The Bahamas disagrees with maritime boundaries asserted by the United States."
+  },
+  "p4": {
+    "territory": "Naf River / Maritime Border",
+    "countries": ["BGD", "MMR"],
+    "centroid": [92.32951, 20.81818],
+    "zoom": 7.49946933718149,
+    "text": "The Naf River on the border with Bangladesh serves as a smuggling and illegal transit route; Bangladesh struggles to accommodate 29,000 Rohingya, Burmese Muslim minority from Arakan State, living as refugees in Cox's Bazar. Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border with Bangladesh in 2010. Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea."
+  },
+  "p5": {
+    "territory": "Drina River",
+    "countries": ["BIH", "SRB"],
+    "centroid": [19.32972, 44.31554],
+    "zoom": 6.77952236397483,
+    "text": "Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute."
+  },
+  "p6": {
+    "territory": "Brazilian Island",
+    "countries": ["BRA", "URY"],
+    "centroid": [-57.62911, -30.18333],
+    "zoom": 10.6174749737599,
+    "text": "A boundary dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question."
+  },
+  "p7": {
+    "territory": "Ntem River Island",
+    "countries": ["CMR", "GNQ"],
+    "centroid": [9.84557, 2.29794],
+    "zoom": 10.8701875712093,
+    "text": "In 2002, the International Court of Justice ruled on an equidistance settlement of Cameroon-Equatorial Guinea-Nigeria maritime boundary in the Gulf of Guinea, but a dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River and imprecisely defined maritime coordinates in the ICJ decision delayed final delimitation."
+  },
+  "p8": {
+    "territory": "Rukwanzi Island",
+    "countries": ["COD", "UGA"],
+    "centroid": [30.48277, 1.24829],
+    "zoom": 10.0294807352056,
+    "text": "Members of Uganda's Lords Resistance Army forces continue to seek refuge in Congo's Garamba National Park as peace talks with the Uganda government evolve. The location of the boundary in the broad Congo River with the Republic of the Congo is indefinite except in the Pool Malebo/Stanley Pool area; Uganda and DRC dispute Rukwanzi Island in Lake Albert and other areas on the Semliki River with hydrocarbon potential."
+  },
+  "p9": {
+    "territory": "Gulf of Pirin",
+    "countries": ["HRV", "SVN"],
+    "centroid": [13.5017, 45.63124],
+    "zoom": 7.71632478146215,
+    "text": "Croatia and Slovenia have each claimed sovereignty over Pirin Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea. In 2009, Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU. Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements."
+  },
+  "X1": {
+    "territory": "Crimea",
+    "countries": ["RUS", "UKR"],
+    "centroid": [34.3572, 45.31708],
+    "zoom": 6.23075116110527,
+    "text": "As a result of the 2014 Ukrainian revolution and subsequent annexation of Crimea by the Russian Federation, the sovereignty over the peninsula is currently disputed between Ukraine and the Russian Federation. Immediately after the flight of former Ukrainian President Viktor Yanukovych from Kiev on 21 February 2014, planning began in the Kremlin to take control of Crimea. Within days, unmarked Russian forces took over the Autonomous Republic of Crimea. Following a controversial referendum that purported to show majority support for joining Russia, Russian President Vladimir Putin signed a treaty of accession with the self-declared independent Republic of Crimea, absorbing it into the Russian Federation, though the annexation was not recognised by Ukraine or most of the international community. The United Nations General Assembly adopted a non-binding resolution calling upon states not to recognise changes to the integrity of Ukraine."
+  },
+  "X11": {
+    "territory": "KaNgwane",
+    "countries": ["SWZ", "ZAF"],
+    "centroid": [31.4213, -25.89294],
+    "zoom": 6.96576345364101,
+    "text": "In 1981, South Africa granted nominal self rule to KaNgwane, a semi-independent homeland for the Swazi people. In 1982, it attempted to transfer parts of the territory to Swaziland in 1982, but the transfer failed following protests.  KaNgwane is claimed by King Sobhuza of Swaziland as part of the Swazi monarchs' traditional realm."
+  },
+  "X12": {
+    "territory": "Caspian Sea",
+    "countries": ["RUS", "AZE", "IRN", "TKM", "KAZ"],
+    "centroid": [50.81993, 41.80984],
+    "zoom": 4.62483204735639,
+    "text": "A key problem to further development in the region is the status of the Caspian Sea and the establishment of the water boundaries among the five littoral states – Azerbaijan, Russia, Kazakhstan, Turkmenistan, and Iran. Access to mineral resources (oil and natural gas), access for fishing, and access to international waters (through Russia's Volga river and the canals connecting it to the Black Sea and Baltic Sea) all depend upon the outcomes of negotiations."
+  },
+  "X2": {
+    "territory": "S Sudan - CAR Border",
+    "countries": ["CAF", "SSD"],
+    "centroid": [25.67004, 7.205],
+    "zoom": 6.24324426240991,
+    "text": "Periodic skirmishes persist over water and grazing rights among related pastoral populations along the border with southern Sudan"
+  },
+  "X3": {
+    "territory": "Isla Calero",
+    "countries": ["CRI", "NIC"],
+    "centroid": [-83.63795, 10.8437],
+    "zoom": 8.40187656802136,
+    "text": "Costa Rica and Nicaragua regularly file border dispute cases over the delimitations of the San Juan River and the northern tip of Calero Island to the International Court of Justice (ICJ). In 2009, the ICJ ruled that Costa Rican vessels carrying out police activities could not use the river, but official Costa Rican vessels providing essential services to riverside inhabitants and Costa Rican tourists could travel freely on the river. In 2011, the ICJ provisionally ruled that both countries must remove personnel from the disputed area. In 2013, the ICJ rejected Nicaragua's 2012 suit to halt Costa Rica's construction of a highway paralleling the river on the grounds of irreparable environmental damage. In 2013, the ICJ, regarding the disputed territory, ordered that Nicaragua should refrain from dredging or canal construction and refill and repair damage caused by trenches connecting the river to the Caribbean and upheld its 2010 ruling that Nicaragua must remove all personnel. In early 2014, Costa Rica brought Nicaragua to the ICJ over offshore oil concessions in the disputed region."
+  },
+  "X4": {
+    "territory": "Aegean Sea",
+    "countries": ["GRC", "TUR"],
+    "centroid": [24.93261, 39.32812],
+    "zoom": 5.6225810337958,
+    "text": "Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea. This set of conflicts has had a large effect on Greek-Turkish relations since the 1970s. It has twice led to crises coming close to the outbreak of military hostilities, in 1987 and in early 1996."
+  },
+  "X5": {
+    "territory": "Shatt al-Arab River",
+    "countries": ["IRQ", "IRN"],
+    "centroid": [48.51129, 29.97311],
+    "zoom": 9.8563606181952,
+    "text": "Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf."
+  },
+  "X6": {
+    "territory": "Fergana Valley",
+    "countries": ["KGZ", "UZB", "TJK"],
+    "centroid": [71.65024, 40.72229],
+    "zoom": 6.45399042542395,
+    "text": "The most complicated border negotiations in the Central Asia region involve the Fergana Valley where multiple enclaves struggle to exist. Three countries share in the tangled border region; Uzbekistan, Kyrgyzstan and Tajikistan all have historic and economic claims to the regions transport routes and natural resources. Negotiations between the three countries are often tense and are prone to break down."
+  },
+  "X7": {
+    "territory": "Southeastern Algeria",
+    "countries": ["LBY", "DZA"],
+    "centroid": [11.38742, 24.05887],
+    "zoom": 6.59706720350199,
+    "text": "Libya claims about 32,000 sq km of southeastern Algeria, still reflected on its maps."
+  },
+  "X8": {
+    "territory": "Lake Malawi",
+    "countries": ["MWI", "TZA"],
+    "centroid": [34.45047, -10.64862],
+    "zoom": 6.09571830134554,
+    "text": "Malawi is in dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River. Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake. The conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake."
+  },
+  "X9": {
+    "territory": "Orange River",
+    "countries": ["NAM", "ZAF"],
+    "centroid": [18.04678, -28.83883],
+    "zoom": 6.79703713784015,
+    "text": "South Africa claims, on the basis of the 1890 treaty, that the border runs along the north bank of the Orange River. Namibia claims that it follows the middle of the river. The Constitution of Namibia explicitly claims the territory up to the middle of the river, while South Africa's Recognition of the Independence of Namibia Act denies any recognition of this claim."
+  },
+  "X20": {
+    "territory": "Islamic State",
+    "countries": ["IRQ", "SYR", "ISS"],
+    "centroid": [42.384, 35.425],
+    "zoom": 5.6225810337958,
+    "text": "The territory controlled/contested by the self-proclaimed caliphate does not have well defined borders, but the group has captured towns stretching across large swaths of Iran and Syria."
+  },
+  "X21": {
+    "territory": "Kurdistan",
+    "countries": ["SYR", "IRQ", "KUR"],
+    "centroid": [44, 36.72],
+    "zoom": 5.6225810337958,
+    "text": "Iraqi Kurdistan first gained autonomous status in a 1970 agreement with the Iraqi government, and its status was re-confirmed as an autonomous entity within the federal Iraqi republic in 2005. Since the start of the Syrian Civil War (2011) and the Northern Iraq offensive by ISIS (2014), the Kurds have participated in the fighting, and taken control of large sections of northeast Syria as well as new territory in Northern Iraq."
+  },
+  "X22": {
+    "territory": "Timor Gap",
+    "countries": ["AUS", "TLS"],
+    "centroid": [127.25, -10.46],
+    "zoom": 7.2,
+    "text": "The Timor Gap is an area of Ocean between Timor-Leste and Australia in which the border separating the two countries has yet to be determined. At stake is a resource-rich seabed, with tens of billions of dollars worth of oil and gas."
+  },
+  "X23": {
+    "territory": "Beaufort Sea Wedge",
+    "countries": ["USA", "CAN"],
+    "centroid": [-140.2, 73.08],
+    "zoom": 5.5,
+    "text": "In the Beaufort Sea, north of the Canada-Alaska border, there is a wedge-shaped slice of ocean where the claimed maritime territories of the U.S. and Canada overlap. At stake is a resource-rich seabed which, according to Canada's National Energy Board, contains enough natural gas to cover Canada's national consumption for 20 years."
+  },
+  "X24": {
+    "territory": "Hala'ib Triangle / Bir Tawil",
+    "countries": ["EGY", "SDN"],
+    "centroid": [35.15, 22.44],
+    "zoom": 6.8,
+    "text": "In 1899, the year Egypt and Sudan joined the British Empire, the British established a politcal boundary dividing the two countries.  Three years later, in 1902, another group of Brits drew a separate administrative border. It mostly coincided with the first, but not quite, forming two disjoint regions between the two boundaries. Presently, Egypt asserts the 1899 borders, which would give it control of the larger region, known as the Hala'ib Triangle, and Sudan control of the smaller region, Bir Tawil. Sudan asserts the 1902 boundaries, which would give it just the same thing it its favor. This dispute leads to a peculiar outcome. Since both countries claim to control the Hala'ib Triangle, they also both claim that the other controls Bir Tawil -- a territory that ends up being claimed by noone."
+  },
+  "X25": {
+    "territory": "Okino Torishima",
+    "countries": ["JPN", "CHN"],
+    "centroid": [136.24, 20.58],
+    "zoom": 10,
+    "text": "Okino Torishima is an uninhabited Japanese atoll comprised of three artificial islets, each measuring about 600 square feet in size. Ownership of the islets themselves is not in dispute, but rather whether they qualify as islands under the U.N. Law of the Sea. If so, it would give Japan control of the waters surrounding the area, maritime territory that would otherwise be Chinese."
+  }
+}
