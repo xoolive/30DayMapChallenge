@@ -93,4 +93,41 @@ Following the instructions from James Monteith's Comprehensive Geography to draw
 
 <img src="contributions/challenge_day22.png" width="400px"/>
 
+### Day 23 – Data Challenge 3: GHSL
+
+<img src="contributions/challenge_day23.png" width="400px"/>
+
+### Day 24 – Historical map
+
+<div id="contribution_day24"></div>
+<script type="text/javascript">
+  var spec = "data/contribution_day24.json";
+  var opt = {"renderer": "canvas", "actions": true};
+  vegaEmbed("#contribution_day24", spec, opt).then(function(result) { }).catch(console.error);
+</script> 
+
+### Day 25 – Interactive map
+
+<img src="contributions/challenge_day25.png" width="400px"/>
+
+### Day 26 – Choropleth map
+
+<img src="contributions/challenge_day26.png" width="400px"/>
+
+### Day 27 – Heatmap
+
+<img src="contributions/challenge_day27.png" width="400px"/>
+
+### Day 28 – The Earth is not flat
+
+<img src="contributions/challenge_day28.png" width="400px"/>
+
+### Day 29 – NULL
+
+<img src="contributions/challenge_day29.png" width="400px"/>
+
+### Day 30 – Metamapping day
+
+<img src="contributions/challenge_day30.png" width="400px"/>
+
 
