@@ -2,6 +2,8 @@
 
 ## 2021
 
+![](./data/30dmpc_2021.png)
+
 - Day 1 -- [Points](2021/01)
 - Day 2 -- [Lines](2021/02)
 - Day 3 -- [Polygons](2021/03)
