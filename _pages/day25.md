@@ -4,7 +4,7 @@ title: Day 25 – Interactive map
 permalink: /2021/25/
 ---
 
-[<< Day 24](/2021/24)
+[<< Day 24](../24/)
 
 A (minimal effort) follow up on yesterday's map with the same colors. Now the glitches are apparent on the map.
 
