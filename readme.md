@@ -31,7 +31,7 @@ I also appreciate, also I am not (yet?) proficient the d3.js library with the [O
 - Day 17 -- [Land](2021/17)
 - Day 18 -- [Water](2021/18)
 - Day 19 -- [Islands](2021/19)
-- Day 20 -- [Movements](2021/20)
+- Day 20 -- [Movement](2021/20)
 - Day 21 -- [Elevation](2021/21)
 - Day 22 -- [Boundaries](2021/22)
 - Day 23 -- [Data Challenge 3: GHSL](2021/23)

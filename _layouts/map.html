@@ -13,8 +13,5 @@ layout: default
 
   <!-- Embed the tweet if present -->
   {% if page.twitter %}
-  <blockquote class="twitter-tweet">
-    <a href="{{ page.twitter }}"></a>
-  </blockquote>
-  {% endif %}
+  <a href="{{ page.twitter }}">Link to original tweet</a>. {% endif %}
 </div>
