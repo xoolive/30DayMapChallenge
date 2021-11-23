@@ -1,10 +1,16 @@
 # 30 day map challenge
 
+Taking part in that challenge was not my original plan, but it turned out to be fun to give it a try. As a developper for a mapping library [cartes](https://github.com/xoolive/cartes), it felt like the perfect opportunity to use it to quickly produce many maps.
+
+It certainly proved useful in many situations, but also showed many little bugs here and there in the library. A new release will certainly come out after things cool down.
+
+## Tools
+
 My mapping tools usually include:
 
 - Matplotlib, with [Cartopy](https://scitools.org.uk/cartopy/docs/latest/);
 - [Altair](https://altair-viz.github.io/gallery/index.html#maps) for a Javascript/Vega-Lite output;
-- Extensions about projection and access to OpenStreetMap with my [`cartes`](https://github.com/xoolive/cartes) library, highly dependent on [Shapely](https://shapely.readthedocs.io/en/latest/index.html);
+- Extensions about projection and access to OpenStreetMap with my [cartes](https://github.com/xoolive/cartes) library, highly dependent on [Shapely](https://shapely.readthedocs.io/en/latest/index.html);
 
 I also appreciate, also I am not (yet?) proficient the d3.js library with the [Observable](https://observablehq.com/@xoolive) environment. Have a look at [@fil](https://observablehq.com/@fil) if you want to be mindblown.
 
