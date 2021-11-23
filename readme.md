@@ -1,8 +1,16 @@
 # 30 day map challenge
 
+My mapping tools usually include:
+
+- Matplotlib, with [Cartopy](https://scitools.org.uk/cartopy/docs/latest/);
+- [Altair](https://altair-viz.github.io/gallery/index.html#maps) for a Javascript/Vega-Lite output;
+- Extensions about projection and access to OpenStreetMap with my [`cartes`](https://github.com/xoolive/cartes) library, highly dependent on [Shapely](https://shapely.readthedocs.io/en/latest/index.html);
+
+I also appreciate, also I am not (yet?) proficient the d3.js library with the [Observable](https://observablehq.com/@xoolive) environment. Have a look at [@fil](https://observablehq.com/@fil) if you want to be mindblown.
+
 ## 2021
 
-![](./data/30dmpc_2021.png)
+<img src="./data/30dmpc_2021.png" width="500px"/>
 
 - Day 1 -- [Points](2021/01)
 - Day 2 -- [Lines](2021/02)

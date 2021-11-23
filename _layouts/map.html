@@ -9,3 +9,15 @@ layout: default
 {% endif %}
 
 <div id="post">{{ content }}</div>
+
+{% if page.twitter %}
+<blockquote class="twitter-tweet">
+  <a href="{{ page.twitter }}"></a>
+</blockquote>
+
+<script
+  async
+  src="https://platform.twitter.com/widgets.js"
+  charset="utf-8"
+></script>
+{% endif %}
