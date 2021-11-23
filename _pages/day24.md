@@ -12,7 +12,7 @@ Cities' coordinates are fetched from OpenStreetMap Nominatim service, and inters
 
 <div id="contribution_day24"></div>
 <script type="text/javascript">
-    var spec = "https://raw.githubusercontent.com/xoolive/30DayMapChallenge/master/data/challenge_day24.json";
+    var spec = "https://raw.githubusercontent.com/xoolive/30DayMapChallenge/master/contributions/challenge_day24.json";
     var opt = {"renderer": "canvas", "actions": true};
     vegaEmbed("#contribution_day24", spec, opt).then(function(result) { }).catch(console.error);
 </script>
