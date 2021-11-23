@@ -7,112 +7,28 @@
 - Day 3 -- [Polygons](2021/03)
 - Day 4 -- [Hexagons](2021/04)
 - Day 5 -- [Data challenge 1: OpenStreetMap](2021/05)
-
-### Day 6 – Red
-
-<img src="contributions/challenge_day06.png" width="400px"/>
-
-### Day 7 – Green
-
-<img src="contributions/challenge_day07.gif" width="400px"/>
-
-### Day 8 – Blue
-
-<img src="contributions/challenge_day08.png" width="400px"/>
-
-### Day 9 – Monochrome
-
-<img src="contributions/challenge_day09.png" width="400px"/>
-
-### Day 10 – Raster
-
-<img src="contributions/challenge_day10.gif" width="400px"/>
-
-### Day 11 – 3D
-
-<img src="contributions/challenge_day11.png" width="400px"/>
-
-### Day 12 – Population
-
-<img src="contributions/challenge_day12.png" width="400px"/>
-
-### Day 13 – Data challenge 2: Natural Earth
-
-<img src="contributions/challenge_day13.png" width="400px"/>
-
-### Day 14 – Map with a new tool
-
-Details here: https://observablehq.com/@xoolive/disputed-territories
-
-<img src="contributions/challenge_day14.png" width="400px"/>
-
-### Day 15 – Map made without a computer
-
-Following the instructions from James Monteith's Comprehensive Geography to draw a map of Europe.
-
-<img src="contributions/challenge_day15.png" width="400px"/>
-
-### Day 16 – Urban/rural
-
-<img src="contributions/challenge_day16.png" width="400px"/>
-
-### Day 17 – Land
-
-<img src="contributions/challenge_day17.png" width="400px"/>
-
-### Day 18 – Water
-
-<img src="contributions/challenge_day18.png" width="400px"/>
-
-### Day 19 – Islands
-
-<img src="contributions/challenge_day19.png" width="400px"/>
-
-### Day 20 – Movement
-
-<img src="contributions/challenge_day20.png" width="400px"/>
-
-### Day 21 – Elevation
-
-<img src="contributions/challenge_day21.png" width="400px"/>
-
-### Day 22 – Boundaries
-
-<img src="contributions/challenge_day22.png" width="400px"/>
-
-### Day 23 – Data Challenge 3: GHSL
-
-<img src="contributions/challenge_day23.png" width="400px"/>
-
-### Day 24 – Historical map
-
-<div id="contribution_day24"></div>
-<script type="text/javascript">
-  var spec = "data/contribution_day24.json";
-  var opt = {"renderer": "canvas", "actions": true};
-  vegaEmbed("#contribution_day24", spec, opt).then(function(result) { }).catch(console.error);
-</script>
-
-### Day 25 – Interactive map
-
-<img src="contributions/challenge_day25.png" width="400px"/>
-
-### Day 26 – Choropleth map
-
-<img src="contributions/challenge_day26.png" width="400px"/>
-
-### Day 27 – Heatmap
-
-<img src="contributions/challenge_day27.png" width="400px"/>
-
-### Day 28 – The Earth is not flat
-
-<img src="contributions/challenge_day28.png" width="400px"/>
-
-### Day 29 – NULL
-
-<img src="contributions/challenge_day29.png" width="400px"/>
-
-### Day 30 – Metamapping day
-
-<img src="contributions/challenge_day30.png" width="400px"/>
+- Day 6 -- [Red](2021/06)
+- Day 7 -- [Green](2021/07)
+- Day 8 -- [Blue](2021/08)
+- Day 9 -- [Monochrome](2021/09)
+- Day 10 -- [Raster](2021/10)
+- Day 11 -- [3D](2021/11)
+- Day 12 -- [Population](2021/12)
+- Day 13 -- [Data challenge 2: Natural Earth](2021/13)
+- Day 14 -- [Map with a new tool](https://observablehq.com/@xoolive/disputed-territories)
+- Day 15 -- [Map without a computer](2021/15)
+- Day 16 -- [Urban/rural](2021/16)
+- Day 17 -- [Land](2021/17)
+- Day 18 -- [Water](2021/18)
+- Day 19 -- [Islands](2021/19)
+- Day 20 -- [Movements](2021/20)
+- Day 21 -- [Elevation](2021/21)
+- Day 22 -- [Boundaries](2021/22)
+- Day 23 -- [Data Challenge 3: GHSL](2021/23)
+- Day 24 -- [Historical map](2021/24)
+- Day 25 -- [Interactive map](2021/25)
+- Day 26 -- [Choropleth map](2021/26)
+- Day 27 -- [Heatmap](2021/27)
+- Day 28 -- [The Earth is not flat](2021/27)
+- Day 29 -- [`NULL`](2021/28)
+- Day 30 -- [Metamapping day](2021/30)
