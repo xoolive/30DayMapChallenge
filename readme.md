@@ -2,11 +2,11 @@
 
 ## 2021
 
-- Day 1 -- [Points](/2021/01)
-- Day 2 -- [Lines](/2021/02)
-- Day 3 -- [Polygons](/2021/03)
-- Day 4 -- [Hexagons](/2021/04)
-- Day 5 -- [Data challenge 1: OpenStreetMap](/2021/05)
+- Day 1 -- [Points](2021/01)
+- Day 2 -- [Lines](2021/02)
+- Day 3 -- [Polygons](2021/03)
+- Day 4 -- [Hexagons](2021/04)
+- Day 5 -- [Data challenge 1: OpenStreetMap](2021/05)
 
 ### Day 6 – Red
 
