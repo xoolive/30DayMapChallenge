@@ -1,25 +1,12 @@
 # 30 day map challenge
 
+## 2021
 
-### Day 1 – Points
-
-<img src="contributions/challenge_day01.png" width="400px"/>
-
-### Day 2 – Lines
-
-<img src="contributions/challenge_day02.png" width="400px"/>
-
-### Day 3 – Polygons
-
-<img src="contributions/challenge_day03.png" width="400px"/>
-
-### Day 4 – Hexagons
-
-<img src="contributions/challenge_day04.png" width="400px"/>
-
-### Day 5 – Data challenge 1: OpenStreetMap
-
-<img src="contributions/challenge_day05.png" width="400px"/>
+- Day 1 -- [Points](/2021/01)
+- Day 2 -- [Lines](/2021/02)
+- Day 3 -- [Polygons](/2021/03)
+- Day 4 -- [Hexagons](/2021/04)
+- Day 5 -- [Data challenge 1: OpenStreetMap](/2021/05)
 
 ### Day 6 – Red
 
@@ -104,7 +91,7 @@ Following the instructions from James Monteith's Comprehensive Geography to draw
   var spec = "data/contribution_day24.json";
   var opt = {"renderer": "canvas", "actions": true};
   vegaEmbed("#contribution_day24", spec, opt).then(function(result) { }).catch(console.error);
-</script> 
+</script>
 
 ### Day 25 – Interactive map
 
@@ -129,5 +116,3 @@ Following the instructions from James Monteith's Comprehensive Geography to draw
 ### Day 30 – Metamapping day
 
 <img src="contributions/challenge_day30.png" width="400px"/>
-
-
