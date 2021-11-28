@@ -47,6 +47,6 @@ I also appreciate, also I am not (yet?) proficient, the d3.js library with the [
 - Day 25 – [Interactive map](2021/25)
 - Day 26 – [Choropleth map](2021/26)
 - Day 27 – [Heatmap](2021/27)
-- Day 28 – [The Earth is not flat](2021/27)
-- Day 29 – [`NULL`](2021/28)
+- Day 28 – [The Earth is not flat](2021/28)
+- Day 29 – [`NULL`](2021/29)
 - Day 30 – [Metamapping day](2021/30)
