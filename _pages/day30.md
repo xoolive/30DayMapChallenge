@@ -9,6 +9,18 @@ h2 {
     color: #9a3334;
     font-size: 110%;
 }
+h2::before {
+    content: "# ";
+    color: #bab0ac;
+}
+img {
+    max-width: 400px;
+}
+blockquote {
+    margin: 0;
+    background-color: rgba(0.9, 0.9, 0.9, 0.1);
+    padding: .3em 1rem;
+}
 </style>
 
 > Final day!
