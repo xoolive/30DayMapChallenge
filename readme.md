@@ -14,7 +14,10 @@ My mapping toolchain is rather Python based, with some sprinkles of Javascript. 
 - [Altair](https://altair-viz.github.io/gallery/index.html#maps) for a Javascript/Vega-Lite output;
 - Extensions about projection and access to OpenStreetMap with my [cartes](https://github.com/xoolive/cartes) library, highly dependent on [Shapely](https://shapely.readthedocs.io/en/latest/index.html);
 
-I also appreciate, also I am not (yet?) proficient, the d3.js library with the [Observable](https://observablehq.com/@xoolive) environment. Have a look at [@fil](https://observablehq.com/@fil) if you want to be mindblown with all what is possible.
+I also appreciate, also I am not (yet?) proficient, the d3.js library with the [Observable](https://observablehq.com/@xoolive) environment:
+
+- have a look at [@fil](https://observablehq.com/@fil) if you want to be mindblown with all what is possible;
+- this year, the Observable [@ambassadors](https://observablehq.com/@ambassadors) joined forces for the [#30DayMapChallenge](https://observablehq.com/collection/@ambassadors/30daymapchallenge).
 
 ## 2021
 
